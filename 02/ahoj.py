@@ -1,0 +1,7 @@
+print("ahoj")
+print("Ahoj!")
+print("jak se máš?")
+print("dobře")
+print("co děláš?")
+print("programuju tě :) ")
+print("báví tě to ?")
