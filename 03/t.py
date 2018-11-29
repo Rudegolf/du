@@ -3,7 +3,7 @@ from random import choice
 
 colors = ["gold", "red", "blue", "pink", "green","purple","black"]
 
-for x in range(1000000):
+for x in range(100):
 	color(choice(colors))
 	forward(x / 100)
 	left(9)
